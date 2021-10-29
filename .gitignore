@@ -1,0 +1,7 @@
+*.egg-info/
+.coverage
+.tox/
+.venv/
+__pycache__/
+jobs.db
+/node_modules
